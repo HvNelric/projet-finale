@@ -1,0 +1,79 @@
+/*
+#175667
+#292255
+ */
+/**************** NAV ********************/
+.my-navbar{
+  background: #292255 !important;
+  color: white;
+}
+
+#logo {
+  height: 2rem;
+}
+
+.my-navlink:hover {
+  color: rgba(200,200,200,1) !important;
+}
+
+/**************/
+/**** MAIN ****/
+/**************/
+body{
+  font-size: 0.9rem;
+}
+
+.top-container{
+  height: 1000px;
+  background: url("img/index02-violet.jpg") 0 -50px no-repeat;
+  background-attachment: fixed;
+
+}
+
+.img-index{
+  width: 100%;
+  position: relative;
+  bottom: 0;
+}
+
+#page-container{
+  height: 4000px;
+}
+
+.btn-join{
+  background: rgba(41,34,85,1);
+  color: #fff;
+  position: relative;
+  top: -380px;
+  left: calc(50% - 100px/2);
+}
+
+.btn-join:hover{
+  background: rgba(41,34,85,0.4);
+}
+
+.row-etapes{
+  padding: 100px 0;
+  background: #292255;
+}
+
+.forme-hexa{
+  height: 120px;
+}
+
+.border-bottom{
+  margin-bottom: 3rem;
+}
+
+.step-h4{
+  background: #292255;
+  position: relative;
+  top: 16px;
+  width: 110px;
+  margin: 0 auto;
+}
+
+.border-conteneur{
+  padding: 0 2.5rem;
+}
+
